@@ -1,7 +1,7 @@
 # Ali - 42 key split ergonomic keyboard
 VERY IMPORTANT PLEASE READ ALL
 
-This is the first keyboard I have ever designed and the first revision of the board. There are definitely design elements I’d like to improve and features I'd like to add in a revision 2.
+This is the first keyboard I have ever designed and the first revision of the board. There are definitely design elements I’d like to improve and features I'd like to add in a revision 2. :)
 
 Parts Needed
 - 42 MX style switches
