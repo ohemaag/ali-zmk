@@ -15,6 +15,8 @@ Parts Needed
 - 8mm x 2mm rubber bumper (for case front feet)
 - 11mm x 5 mm rubber bumper (for case rear feet)
 
+Files and firmware - My firmware inclu
+
 Standoffs - Dependning on which standoffs you buy, they may or may not fit in the holes on the case. The holes on the case are 4mm in diameter, but I have been M2 standoffs with outer diameters anywhere from 2.9-5mm. This was the case with me, but I got around it but by screwing the actual standoff to the plate alone, dabbing hot glue in the correct locations for the standoffs in the case, then pressing standoffs attacted to the plate into the glue. You can then unscrew the plate, and the standoffs will be the correct position. It is very important to note that hot glue dries very fast, so if you do this you need to move fast. The hot glue allows for you to remove it if your placement isn't how you like it. You can reinforce with super glue after you get the placement right if you wish, but the hot glue is pretty strong on its own. This is obviously not ideal, but the position of the screws/screwless design require this to have skinny standoffs to not interfere with handwiring. I would like to improve this in a Revision 2.
 
 Case and Plate Files - In the case and plate file you will find 2 types of plates: one with 1mm case clearence and one with .5mm case clearence. My original design is 1mm, but if you would like less of a gap between the case and the plate, you can use the .5mm clearence plate. The cutout on the bottom of the case is meant for a battery if your battery is too big to fit under the microcontroller. The microcontroller cutout is not at all the right size but creates additional space if you wanted to put the battery under the controller like I did.
