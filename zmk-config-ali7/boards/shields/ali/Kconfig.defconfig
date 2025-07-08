@@ -1,0 +1,6 @@
+if SHIELD_ALI
+
+config ZMK_KEYBOARD_NAME
+    default "ali"
+
+endif
