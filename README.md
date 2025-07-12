@@ -1,4 +1,4 @@
-# Ali - 42 key handwired ergonomic keyboard
+# Ali - Custom 42 key handwired ergonomic keyboard
 ![top view](./images_and_wiring_guide/top_view.jpeg)
 ## **VERY IMPORTANT PLEASE READ ALL**
 
