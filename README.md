@@ -9,7 +9,7 @@ Parts Needed
 - 42 1N4148 diodes
 - 42 1u keycaps
 - Insulated stranded/solid core copper wire
-- 1 nice!nano v2 or suitable clone
+- 1 nice!nano v2 microcontroller or suitable clone (such as supermini nrf52840)
 - 1 3.7v lithium ion battery
 - M2 10mm standoffs (important note about standoffs)
 - M2 8mm screws
