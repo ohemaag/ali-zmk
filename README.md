@@ -1,6 +1,6 @@
 # Ali - Custom 42 key handwired ergonomic keyboard
 ![top view](./images_and_wiring_guide/top_view.jpeg)
-## **Documentation - Read if building**
+## **Documentation - important if building**
 
 This is the first keyboard I have ever designed and the first revision of the board. The following text has a lot of tips on how to get around some of the desigin flaws in this revision and helpful tips for building. There are definitely design elements I’d like to improve and features I'd like to add in a revision 2, but I am still pretty happy with this as my first keyboard project. Thanks for all the support and happy building. :) 
 
